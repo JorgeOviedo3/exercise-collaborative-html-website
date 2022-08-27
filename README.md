@@ -8,11 +8,8 @@ Each student works on a different file, for a different part of the website, and
 
 Jorge Oviedo (JorgeOviedo3)
 
-- Team Lider
 - Jumbotron
 - Portfolio
-- Footer
-- Body Styles
 
 Javier Klie (Javierklie)
 
