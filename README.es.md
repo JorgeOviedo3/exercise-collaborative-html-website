@@ -8,11 +8,8 @@ Cada alumno trabajará en un archivo diferente para cada parte diferente del sit
 
 Jorge Oviedo (JorgeOviedo3)
 
-- Team Lider
 - Jumbotron
 - Portfolio
-- Footer
-- Body Styles
 
 Javier Klie (Javierklie)
 
